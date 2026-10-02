@@ -1,0 +1,23 @@
+<cecilia.html>
+    <title>Page 2</title>
+    <head></head>>
+    <body>
+        <hi>Short Story</h1>
+        <p></p>
+        <hi>The Miraculous Journey of Edward Tulane</hi>
+        <p>There was once a toy rabbit named Edward who was separated from his friend Abeline.</p>
+        <p>Edward then finds himself on one crazy journey leading him to live many different lives.</p>
+        <p>The story follows as he is found by someone new and then becomes separated from them too.</p>
+        <p>He becomes a puppet, a companion to a sick little girl, he gets discarded in the dump, he becomes a girly doll, a scarecrow, and he gets repaired by a doll-shop owner.</p>
+        <p>Decades pass as Edward goes through a range of good and bad experiences and one he almost doesn't make it through.</p>
+        <p>Sitting on the shelf of the doll-shop for years watching all the dolls around him get bought until one day a woman and her daughter come in.</p> 
+        <p>Edward sees the woman and thinks she looks like what Abeline would look like all grown up. The woman takes one look at Edward and she can't believe that after all these years she's getting her rabbit back.</p>
+
+        <img src="./downloads.Edward"  title="This is an oil painting I did of Edward." 
+        width="300" height="400">
+        
+        <p><a href="page1.html">Home Page</a></p>
+        <p><a href="page3.html">Contact Us Page</a></p>
+
+    </body>
+</cecilia.html>
